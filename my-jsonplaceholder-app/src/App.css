@@ -1,0 +1,20 @@
+.table-row-light {
+  background-color: #f9f9f9; 
+}
+
+.table-row-dark {
+  background-color: #ffffff; 
+}
+.ant-btn-primary {
+  border-radius: 5px;
+  font-size: 14px;
+}
+.ant-table-thead > tr > th {
+  background-color: #1890ff;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.ant-table-bordered .ant-table-container {
+  border-radius: 10px;
+}
